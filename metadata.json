@@ -1,0 +1,6 @@
+{
+  "name": "IsaiahAIhub — Android App Distribution Platform",
+  "description": "Automatic Android APK discovery, catalogue, and direct downloads for IsaiahAIhub practical digital tools and apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
